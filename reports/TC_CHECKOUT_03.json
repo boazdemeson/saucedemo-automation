@@ -1,0 +1,8 @@
+{
+    "testCaseId": "TC_CHECKOUT_03",
+    "type": "Negative",
+    "status": "FAIL",
+    "errorMessage": "User should NOT navigate to Overview page as in Business Rules",
+    "screenshot": "E:\\saucedemo-automation\\screenshots\\TC_CHECKOUT_03_1772625189260.png",
+    "timestamp": "2026-03-04T11:53:09.261Z"
+}
