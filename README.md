@@ -24,36 +24,6 @@ The automation framework is designed with maintainability and scalability in min
 
 ---
 
-## 🏗️ Framework Architecture
-
-project-root
-│
-├── config/
-│ ├── driver.js
-├── pages/
-│ ├── BasePage.js
-│ ├── CartPage.js
-│ ├── CheckoutCompletePage.js
-│ ├── CheckoutInformationPage.js
-│ ├── CheckoutOverviewPage.js
-│ ├── InventoryPage.js
-│ ├── LoginPage.js
-│
-├── tests/
-│ ├── testSuite.js
-│
-├── utils/
-│ ├── bugReports.js
-│ ├── logger.js
-│ ├── screenshot.js
-│
-├── logs/
-├── screenshots/
-│
-└── package.json
-
----
-
 ## 🧩 Design Pattern
 
 This framework implements:
