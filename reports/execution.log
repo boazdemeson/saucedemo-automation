@@ -1,0 +1,315 @@
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:12:58.962Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:14:17.553Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:14:18.750Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:14:19.942Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:14:21.161Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:20:19.874Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:24:58.936Z"}
+error: TC_LOGIN_02 FAILED: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=145.0.7632.119) {"timestamp":"2026-03-04T09:25:00.281Z"}
+error: TC_LOGIN_03 FAILED: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=145.0.7632.119) {"timestamp":"2026-03-04T09:25:01.634Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:25:02.865Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:25:04.289Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:26:16.212Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:26:17.394Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:26:18.614Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:26:19.828Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:26:21.206Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:36:23.241Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:36:24.484Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:36:25.714Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:36:27.066Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:36:28.589Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T09:36:30.485Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:38:38.304Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:38:39.543Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:38:40.744Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:38:41.934Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:38:43.352Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T09:38:45.144Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:43:47.334Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:43:48.567Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:43:49.752Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:43:50.967Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:43:52.356Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T09:43:54.184Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:46:25.109Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:46:26.321Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:46:27.496Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:46:28.727Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:46:30.076Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T09:46:31.877Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T09:46:33.774Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T09:58:40.063Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T09:58:41.270Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T09:58:42.560Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T09:58:43.762Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T09:58:45.139Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T09:58:46.992Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T09:58:48.994Z"}
+error: TC_CHECKOUT_01 FAILED: firstName is not defined {"timestamp":"2026-03-04T09:58:50.422Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:00:25.373Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:00:26.559Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:00:27.740Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:00:28.978Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:00:30.304Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:00:32.113Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:00:33.911Z"}
+error: TC_CHECKOUT_01 FAILED: no such element: Unable to locate element: {"method":"css selector","selector":"*[id="first-name"]"}
+  (Session info: chrome=145.0.7632.119) {"timestamp":"2026-03-04T10:00:35.332Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:06:03.677Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:06:04.912Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:06:06.124Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:06:07.365Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:06:08.674Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:06:10.614Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:06:12.490Z"}
+error: TC_CHECKOUT_01 FAILED: no such element: Unable to locate element: {"method":"css selector","selector":"*[id="first-name"]"}
+  (Session info: chrome=145.0.7632.119) {"timestamp":"2026-03-04T10:06:13.923Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:10:57.685Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:10:58.895Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:11:00.085Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:11:01.282Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:11:02.642Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:11:04.443Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:11:06.223Z"}
+error: TC_CHECKOUT_01 FAILED: no such element: Unable to locate element: {"method":"css selector","selector":"*[id="first-name"]"}
+  (Session info: chrome=145.0.7632.119) {"timestamp":"2026-03-04T10:11:07.634Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:12:13.169Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:12:14.427Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:12:15.604Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:12:16.846Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:12:18.166Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:12:19.964Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:12:21.765Z"}
+error: TC_CHECKOUT_01 FAILED: checkout.getPageOverviewTitle is not a function {"timestamp":"2026-03-04T10:12:23.364Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:14:06.601Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:14:07.872Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:14:09.107Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:14:10.383Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:14:11.756Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:14:13.553Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:14:15.399Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:14:16.937Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:20:37.779Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:20:38.968Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:20:40.135Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:20:41.325Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:20:42.670Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:20:44.519Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:20:46.368Z"}
+error: TC_CHECKOUT_01 FAILED: CheckoutOverviewPage is not defined {"timestamp":"2026-03-04T10:20:47.962Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:23:26.615Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:23:27.874Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:23:29.082Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:23:30.389Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:23:31.723Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:23:33.480Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:23:35.294Z"}
+error: TC_CHECKOUT_01 FAILED: CheckoutOverviewPage is not defined {"timestamp":"2026-03-04T10:23:36.933Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:29:05.474Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:29:06.663Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:29:07.875Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:29:09.150Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:29:10.522Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:29:12.403Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:29:14.208Z"}
+error: TC_CHECKOUT_01 FAILED: CheckoutOverviewPage is not defined {"timestamp":"2026-03-04T10:29:15.805Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:31:14.901Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:31:16.086Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:31:17.238Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:31:18.535Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:31:20.067Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:31:21.831Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:31:23.663Z"}
+error: TC_CHECKOUT_01 FAILED: CheckoutOverviewPage is not defined {"timestamp":"2026-03-04T10:31:25.247Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:32:47.492Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:32:48.790Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:32:50.024Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:32:51.312Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:32:52.722Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:32:54.505Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:32:56.410Z"}
+error: TC_CHECKOUT_01 FAILED: CheckoutOverviewPage is not defined {"timestamp":"2026-03-04T10:32:58.065Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:35:38.770Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:35:40.003Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:35:41.199Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:35:42.493Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:35:43.865Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:35:45.705Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:35:47.516Z"}
+error: TC_CHECKOUT_01 FAILED: overviewPage.getPageTitle is not a function {"timestamp":"2026-03-04T10:35:49.138Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:37:04.186Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:37:05.390Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:37:06.634Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:37:07.878Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:37:09.218Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:37:11.005Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:37:12.850Z"}
+error: TC_CHECKOUT_01 FAILED: overviewPage.getPageTitle is not a function {"timestamp":"2026-03-04T10:37:14.441Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:37:32.528Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:37:33.801Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:37:35.005Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:37:36.296Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:37:37.660Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:37:39.485Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:37:41.334Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:37:42.878Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:41:03.472Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:41:04.696Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:41:05.933Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:41:07.148Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:41:08.488Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:41:10.271Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:41:12.091Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:41:13.717Z"}
+error: TC_CHECKOUT_02 FAILED: overviewPage.getPageTitle is not a function {"timestamp":"2026-03-04T10:41:15.427Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:41:30.033Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:41:31.298Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:41:32.532Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:41:33.755Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:41:35.211Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:41:36.999Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:41:38.919Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:41:40.494Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T10:41:42.174Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:49:27.882Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:49:29.124Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:49:30.317Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:49:31.594Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:49:33.012Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:49:34.830Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:49:36.630Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:49:38.202Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T10:49:39.869Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page {"timestamp":"2026-03-04T10:49:41.588Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:51:13.232Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:51:14.438Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:51:15.641Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:51:16.870Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:51:18.228Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:51:20.005Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:51:21.886Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:51:23.448Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T10:51:25.120Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T10:51:26.831Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T10:51:28.419Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T10:54:35.963Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T10:54:37.248Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T10:54:38.474Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T10:54:39.733Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T10:54:41.141Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T10:54:42.972Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T10:54:44.831Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T10:54:46.378Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T10:54:48.027Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T10:54:49.720Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T10:54:51.353Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T10:54:53.051Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:01:49.949Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:01:51.146Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:01:52.334Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:01:53.540Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:01:54.980Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:01:56.756Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:01:58.575Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:02:00.147Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:02:01.860Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:02:03.588Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:02:05.206Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:02:06.839Z"}
+error: TC_CHECKOUT_06 FAILED: inventory.getProductNameByIndex is not a function {"timestamp":"2026-03-04T11:02:08.151Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:02:54.720Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:02:55.903Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:02:57.086Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:02:58.291Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:02:59.636Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:03:01.481Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:03:03.544Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:03:05.151Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:03:06.805Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:03:08.549Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:03:10.161Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:03:11.793Z"}
+error: TC_CHECKOUT_06 FAILED: selectedProductName is not defined {"timestamp":"2026-03-04T11:03:13.425Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:09:09.079Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:09:10.275Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:09:11.532Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:09:12.827Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:09:14.234Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:09:16.014Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:09:17.857Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:09:19.401Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:09:21.048Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:09:22.765Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:09:24.404Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:09:26.001Z"}
+error: TC_CHECKOUT_06 FAILED: completePage.getPageTitle is not a function {"timestamp":"2026-03-04T11:09:27.655Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:10:39.790Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:10:40.985Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:10:42.130Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:10:43.384Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:10:44.709Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:10:46.571Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:10:48.495Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:10:50.057Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:10:51.703Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:10:53.400Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:10:54.989Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:10:56.617Z"}
+error: TC_CHECKOUT_06 FAILED: completePage.getPageTitle is not a function {"timestamp":"2026-03-04T11:10:58.300Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:11:49.915Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:11:51.133Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:11:52.292Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:11:53.499Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:11:54.892Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:11:56.710Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:11:58.484Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:12:00.088Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:12:01.715Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:12:03.395Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:12:05.087Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:12:06.644Z"}
+error: TC_CHECKOUT_06 FAILED: completePage.clickFinish is not a function {"timestamp":"2026-03-04T11:12:08.346Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:15:10.052Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:15:11.268Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:15:12.424Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:15:13.725Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:15:15.096Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:15:17.149Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:15:18.960Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:15:20.496Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:15:22.168Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:15:23.853Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:15:25.428Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:15:27.020Z"}
+info: TC_CHECKOUT_06 PASSED {"timestamp":"2026-03-04T11:15:28.612Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:18:15.461Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:18:16.764Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:18:17.966Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:18:19.243Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:18:20.639Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:18:22.379Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:18:24.220Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:18:25.765Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:18:27.370Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:18:29.048Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:18:30.677Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:18:32.332Z"}
+info: TC_CHECKOUT_06 PASSED {"timestamp":"2026-03-04T11:18:33.928Z"}
+info: TC_LOGOUT_01 PASSED {"timestamp":"2026-03-04T11:18:36.552Z"}
+info: TC_LOGIN_01 PASSED {"timestamp":"2026-03-04T11:52:54.951Z"}
+info: TC_LOGIN_02 PASSED {"timestamp":"2026-03-04T11:52:56.267Z"}
+info: TC_LOGIN_03 PASSED {"timestamp":"2026-03-04T11:52:57.525Z"}
+info: TC_PRODUCT_01 PASSED {"timestamp":"2026-03-04T11:52:58.763Z"}
+info: TC_SORTING_01 PASSED {"timestamp":"2026-03-04T11:53:00.239Z"}
+info: TC_CART_ADD_01 PASSED {"timestamp":"2026-03-04T11:53:02.299Z"}
+info: TC_CART_ADD_02 PASSED {"timestamp":"2026-03-04T11:53:04.160Z"}
+info: TC_CHECKOUT_01 PASSED {"timestamp":"2026-03-04T11:53:05.737Z"}
+info: TC_CHECKOUT_02 PASSED {"timestamp":"2026-03-04T11:53:07.522Z"}
+error: TC_CHECKOUT_03 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:53:09.261Z"}
+error: TC_CHECKOUT_04 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:53:10.973Z"}
+error: TC_CHECKOUT_05 FAILED: User should NOT navigate to Overview page as in Business Rules {"timestamp":"2026-03-04T11:53:12.716Z"}
+info: TC_CHECKOUT_06 PASSED {"timestamp":"2026-03-04T11:53:14.412Z"}
+info: TC_LOGOUT_01 PASSED {"timestamp":"2026-03-04T11:53:16.889Z"}
